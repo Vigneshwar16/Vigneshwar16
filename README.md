@@ -63,6 +63,6 @@ Beyond technical skills, I bring a mindset of **problem-solving and ownership** 
 ---
 
 ### 👀 Profile Views
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=vigneshwar16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
