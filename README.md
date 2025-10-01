@@ -48,7 +48,7 @@ Beyond technical skills, I bring a mindset of **problem-solving and ownership** 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshwar16&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vigneshwar16&theme=radical&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=vigneshwar16&theme=radical&hide_border=true" alt="streak stats"/><br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwar16&layout=pie" alt="Top Langs"/>
 </p>
 
