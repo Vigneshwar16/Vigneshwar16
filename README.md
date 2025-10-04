@@ -7,7 +7,7 @@
 
 I am a passionate **Full Stack Developer** with a strong focus on building **scalable, user-centric applications** that combine clean code with intuitive design. With experience across **frontend, backend, and databases**, I bring a well-rounded skill set that allows me to take ideas from concept to deployment.  
 
-My expertise includes working with **React, Node.js, Express, MongoDB, PostgreSQL, Python, and Java**, enabling me to architect and deliver solutions that are both robust and performance-driven. I thrive in collaborative environments, follow **Agile practices**, and believe in writing maintainable, testable, and efficient code.  
+My expertise includes working with **React , Node.js, Express, MongoDB, PostgreSQL, Python, and Java**, enabling me to architect and deliver solutions that are both robust and performance-driven. I thrive in collaborative environments, follow **Agile practices**, and believe in writing maintainable, testable, and efficient code.  
 
 Beyond technical skills, I bring a mindset of **problem-solving and ownership** — always looking for opportunities to optimize systems, improve user experience, and deliver measurable impact. Currently, I am exploring **cloud technologies and system design** to level up my ability to create enterprise-grade applications. 
 
